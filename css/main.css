@@ -3530,7 +3530,7 @@
      -ms-flex-align: end;
      -webkit-box-align: end;
      align-items: flex-end;
-     padding-top: 20vh;
+     padding-top: 10vh;
      padding-bottom: 7vh;
      position: relative;
  }
